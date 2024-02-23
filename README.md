@@ -5,8 +5,8 @@
 
 <br />
 <div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=hossainpalin&theme=nord&hide_border=true&border_radius=5" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainpalin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true" alt="languages graph"  />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=hossainpalin&theme=nord&hide_border=true&border_radius=5" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainpalin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true" alt="languages graph"  />
 </div>
 <br />
 
