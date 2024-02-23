@@ -34,9 +34,9 @@
   <img width="12" />
   <img src="https://i.postimg.cc/sx4vCpYn/next-js.png" height="40" alt="nextjs logo"  />
   <img width="12" />
-    <img src="https://i.postimg.cc/wMWXX81c/node-js.png" height="40" alt="nodejs logo"  />
+  <img src="https://i.postimg.cc/wMWXX81c/node-js.png" height="40" alt="nodejs logo"  />
   <img width="12" />
-    <img src="https://i.postimg.cc/7Zr6KtSg/express-js.png" height="40" alt="expressjs logo"  />
+  <img src="https://i.postimg.cc/7Zr6KtSg/express-js.png" height="40" alt="expressjs logo"  />
   <img width="12" />
   <img src="https://i.postimg.cc/dtF5RwLv/mongodb.png" height="40" alt="mongodb logo"  />
   <img width="12" />
