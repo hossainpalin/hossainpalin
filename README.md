@@ -79,6 +79,6 @@
   </a>
   </a>
     <a href="mailto:hossain.palin@outlook.com">
-    <img src="https://img.shields.io/static/v1?message=outlook&logo=outlook&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo"  />
+    <img src="https://img.shields.io/static/v1?message=hotmail&logo=hotmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hotmail logo"  />
   </a>
 </div>
