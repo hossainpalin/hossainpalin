@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Hossain Muhammad Palin, I'm a Full Stack Developer & Programming Enthusiast</h2>
+<h1 align="center">Hello! I'm Hossain Muhammad Palin, I'm a MERN Stack Developer & Programming Enthusiast</h2>
 <p align="left">I'm passionate about creating error-free powerful, and innovative web applications using JavaScript ECO System. I'm proficient in various JavaScript libraries and frameworks. <br><br>My favorite section is Design & Development because I love to create something new. I believe every sector demands a unique, realistic, eye-catching design with scalable and dependable online applications that fulfill a professional service. <br><br>I take pride in my work and I'm always looking for new ways to improve my skills. I'm looking for an opportunity to use my skills and experience to build innovative web applications that make an impact on society.</p>
 
 
