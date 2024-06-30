@@ -61,6 +61,8 @@
   <img width="12" />
   <img src="https://i.postimg.cc/449kdfh1/vscode.png" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://i.postimg.cc/wvC13RJR/python.png" height="40" alt="python logo"  />
+  <img width="12" />
 </div>
 
 ## :mailbox: Reach ME OUT
