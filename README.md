@@ -75,7 +75,7 @@
   <a href="https://discord.com/users/hossainmpalin">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-    <a href="mailto:hossain.palin@outlook.com">
+    <a href="mailto:hossain.palin@gmail.com">
     <img src="https://img.shields.io/static/v1?message=email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mail logo"  />
   </a>
 </div>
