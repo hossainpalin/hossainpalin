@@ -10,7 +10,7 @@
 </div>
 <br />
 
-<h3 align="left">Technologies</h3>
+## Technologies
 
 <br />
 <div align="center">
@@ -64,7 +64,7 @@
   <img width="12" />
 </div>
 
-<h3 align="left">Reach ME OUT</h3>
+## Reach ME OUT
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hossainpalin/">
