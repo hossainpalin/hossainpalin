@@ -1,8 +1,7 @@
 <h1 align="left">Full-stack Engineer & Programming Enthusiast</h1>
 <p align="left">I'm Hossain Muhammad Palin, a skilled Full-stack Engineer & Programming Enthusiast with a strong front-end and back-end development background. I'm passionate about designing, developing, and deploying error-free, innovative, robust, and scalable web applications using JavaScript ECOSystem. I'm proficient in various libraries and frameworks <br><br>My favorite section is Design & Development because I love to create something new. I believe every sector demands a unique, realistic, eye-catching design with scalable and dependable online applications that fulfill a professional service. <br><br>I take pride in my work and I'm always looking for new ways to improve my skills. I'm looking for an opportunity to use my skills and experience to build innovative web applications that make an impact on society.</p>
 
-
-## :chart_with_upwards_trend: My GitHub Stats
+<h1 align="left">GitHub Stats</h1>
 
 <br />
 <div align="center">
@@ -11,7 +10,7 @@
 </div>
 <br />
 
-## :computer: Technologies That I Love
+<h1 align="left">Technologies</h1>
 
 <br />
 <div align="center">
@@ -65,7 +64,7 @@
   <img width="12" />
 </div>
 
-## :mailbox: Reach ME OUT
+<h1 align="left">Reach ME OUT</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hossainpalin/">
