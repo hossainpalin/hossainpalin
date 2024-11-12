@@ -76,6 +76,8 @@
   <img width="12" />
   <img src="https://i.postimg.cc/9fCND0K4/sass.png" height="40" alt="scss logo"  />
   <img width="12" />
+  <img src="https://i.postimg.cc/wjpdk6nz/postgres.png" height="40" alt="postgresql logo"  />
+  <img width="12" />
 </div>
 
 ## Reach ME OUT
