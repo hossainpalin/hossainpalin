@@ -62,6 +62,20 @@
   <img width="12" />
   <img src="https://i.postimg.cc/wvC13RJR/python.png" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://i.postimg.cc/yYhmkjHP/svg.png" height="40" alt="svg logo"  />
+  <img width="12" />
+  <img src="https://i.postimg.cc/BZHDVpX0/firebase.png" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://i.postimg.cc/HsTJPCqw/c.png" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://i.postimg.cc/mr1hFZ9s/c.png" height="40" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://i.postimg.cc/hP4j11mM/zustand.png" height="40" alt="zustand logo"  />
+  <img width="12" />
+  <img src="https://i.postimg.cc/6pvNr8MY/supabase.png" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://i.postimg.cc/9fCND0K4/sass.png" height="40" alt="scss logo"  />
+  <img width="12" />
 </div>
 
 ## Reach ME OUT
