@@ -1,5 +1,5 @@
-<h1 align="left">Full-stack Engineer & Programming Enthusiast</h1>
-<p align="left">I'm Hossain Muhammad Palin, a skilled Full-stack Engineer & Programming Enthusiast with a strong front-end and back-end development background. I'm passionate about designing, developing, and deploying error-free, innovative, robust, and scalable web applications using JavaScript & python ECOSystem. I'm proficient in various libraries and frameworks<br><br>I take pride in my work and I'm always looking for new ways to improve my skills. I'm looking for an opportunity to use my skills and experience to build innovative web applications that make an impact on society.</p>
+<h1 align="left">MERN Stack Developer & Programming Enthusiast</h1>
+<p align="left">I'm Hossain Muhammad Palin, a skilled MERN Stack Developer with a strong front-end and back-end development background. I'm passionate about designing, developing, and deploying error-free, innovative, robust, and scalable web applications using JavaScript ECO System. I'm proficient in various libraries and frameworks<br><br>I take pride in my work and I'm always looking for new ways to improve my skills. I'm looking for an opportunity to use my skills and experience to build innovative web applications that make an impact on society.</p>
 
 ## GitHub Stats
 
